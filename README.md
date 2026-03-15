@@ -1,5 +1,8 @@
 # npc_robbery
 
+#Showcase
+https://www.youtube.com/watch?v=3Uka_aqGOEQ
+
 Rob pedestrian NPCs at gunpoint. Aim at an NPC → they freeze and put their hands up → use Eye Target to search them → realistic pat-down animation plays → receive random loot → NPC flees.
 
 ## Dependencies
